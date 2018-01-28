@@ -1,0 +1,24 @@
+{
+  "name": "zadanie_16_3",
+  "version": "1.0.0",
+  "description": "webpack",
+  "main": "app.js",
+  "dependencies": {
+    "webpack": "^3.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "webpack"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PanZdan/zadanie_16_3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PanZdan/zadanie_16_3/issues"
+  },
+  "homepage": "https://github.com/PanZdan/zadanie_16_3#readme"
+}
